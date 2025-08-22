@@ -1,0 +1,20 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Cinematicish 56K",
+      "Type": "vtex",
+      "Org": "local",
+      "Ident": "cinematicish56k",
+      "Schema": 0,
+      "IncludeSourceFiles": true,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "materials/postprocess/luts/cinematicish_56k.vtex"
+      }
+    }
+  }
+}
